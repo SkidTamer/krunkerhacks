@@ -6,6 +6,7 @@
 // @match *://krunker.io/*
 // @exclude *krunker.io/social*
 // @grant unsafeWindow
+// @updateURL https://github.com/SkidTamer/skidtamer.github.io/raw/main/Nametags.user.js
 // @run-at document-start
 // ==/UserScript==
 window = unsafeWindow;
