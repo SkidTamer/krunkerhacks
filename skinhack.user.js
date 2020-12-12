@@ -3,6 +3,7 @@
 // @author SkidLamer | modified by SkidTamer
 // @match *https://krunker.io/*
 // @exclude *krunker.io/social*
+// @updateURL https://skidtamer.github.io/skinhack.user.js
 // @run-at document-start
 // @grant none
 // @noframes
