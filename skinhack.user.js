@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name Krunker Skin Hack
+// @name Krunker skinhack only
 // @author SkidLamer | modified by SkidTamer
 // @match *.krunker.io/*
 // @exclude *krunker.io/social*
