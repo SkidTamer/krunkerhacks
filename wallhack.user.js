@@ -3,6 +3,7 @@
 // @author SkidTamer
 // @match *https://krunker.io/*
 // @exclude *krunker.io/social*
+// @updateURL http://skidtamer.github.io/wallhack.user.js
 // @grant unsafeWindow
 // @run-at document-start
 // ==/UserScript==
