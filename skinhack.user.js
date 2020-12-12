@@ -1,6 +1,5 @@
 // ==UserScript==
 // @name Krunker Skin Hack
-// @description Unobs!
 // @author SkidLamer | modified by SkidTamer
 // @match *.krunker.io/*
 // @exclude *krunker.io/social*
