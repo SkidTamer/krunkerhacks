@@ -1,7 +1,5 @@
 // ==UserScript==
 // @name Krunker wallhack only
-// @description 102105
-// @version 1.0
 // @author SkidTamer
 // @match *https://krunker.io/*
 // @exclude *krunker.io/social*
