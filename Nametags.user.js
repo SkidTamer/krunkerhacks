@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name Nametags
+// @name Krunker wallhack
 // @description 102105
 // @version 1.0
 // @author SkidTamer
