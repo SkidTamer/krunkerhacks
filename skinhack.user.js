@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name Krunker skinhack only
 // @author SkidLamer | modified by SkidTamer
-// @match *.krunker.io/*
+// @match *https://krunker.io/*
 // @exclude *krunker.io/social*
 // @run-at document-start
 // @grant none
@@ -629,17 +629,6 @@ class Utilities {
                 }
             }
         });
-
-        this.createListener(document, "mouseup", event => {
-            switch (event.button) {
-                case 1:
-                    event.preventDefault();
-                    this.toggleMenu();
-                    break;
-                default:
-                    break;
-            }
-        })
 
         this.waitFor(_=>this.exports).then(exports => {
             if (!exports) return alert("Exports not Found");
