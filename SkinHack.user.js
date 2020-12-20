@@ -1,8 +1,8 @@
 // ==UserScript==
 // @name Skin Hack
 // @author SkidTamer
-// @match *https://krunker.io/*
-// @exclude *htps://krunker.io/social*
+// @match *://krunker.io/*
+// @exclude *social.html*
 // @updateURL https://skidtamer.github.io/SkinHack.user.js
 // @run-at document-start
 // @grant none
